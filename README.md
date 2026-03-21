@@ -1,2 +1,3 @@
-# smart-knowledge-base-rlwb
-A knowledge management system for modern development workflows
+# Smart Knowledge Base Rlwb
+
+A knowledge management system for modern development workflows.
